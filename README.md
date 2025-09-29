@@ -1,16 +1,46 @@
-# React + Vite
+# My Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio! This website showcases my projects, skills, and experience in software development.
 
-Currently, two official plugins are available:
+## 🚀 About
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+I am **Mayur Rajendrakumar Narkhede**, a Computer Engineering student at Datta Meghe College of Engineering (Mumbai University). This portfolio highlights my projects, coding skills, and interests in software development.
 
-## React Compiler
+## 💻 Technologies Used
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **Frontend:** React, Vite, Tailwind CSS
+- **UI/UX:** Responsive design, modern interface
+- **Deployment:** Vercel (for hosting)
 
-## Expanding the ESLint configuration
+## 🖼 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Home page with introduction
+- Projects section with links and descriptions
+- Skills and technologies showcase
+- Contact form for easy communication
+
+## 📂 Project Structure
+
+```
+
+/frontend      # React + Vite frontend
+/public        # Static assets
+/src
+/components  # Reusable React components
+/pages       # Website pages
+/assets      # Images, icons, etc.
+
+````
+
+## 🌐 Live Demo
+
+[View the live website Soon](https://your-portfolio-link.vercel.app)
+
+
+
+## 📫 Contact Me
+
+* Email: [mayurnarkhede23@gmail.com](mailto:mayurnarkhede23@gmail.com)
+* [LinkedIn](https://www.linkedin.com/in/mayur-narkhede-a17a07320/)
+* [GitHub](https://github.com/Mayur000)
+
