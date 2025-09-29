@@ -1,0 +1,31 @@
+{
+  "info": {
+    "name": "Portfolio Backend APIs",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Send Contact Email",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"name\": \"Test User\", \"email\": \"test@example.com\", \"message\": \"Hello from Postman!\"}"
+        },
+        "url": {
+          "raw": "http://localhost:3000/send-email",
+          "protocol": "http",
+          "host": ["localhost"],
+          "port": "3000",
+          "path": ["send-email"]
+        }
+      }
+    }
+  ]
+}
