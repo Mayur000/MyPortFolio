@@ -26,10 +26,8 @@ const Projects = () => {
     "React",
     "Node.js",
     "Express",
-    "MongoDB / PostgreSQL",
-    "Python (AI/ML)",
+    "MongoDB",
     "Google Maps API",
-    "Razorpay / Stripe"
   ],
   github: "https://github.com/Mayur000/Smart_Water_Management",
   // demo: "#", // optional demo link
