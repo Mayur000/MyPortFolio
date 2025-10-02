@@ -30,17 +30,14 @@ I am **Mayur Rajendrakumar Narkhede**, a Computer Engineering student at Datta M
 /pages       # Website pages
 /assets      # Images, icons, etc.
 
-````
+```
 
-## 🌐 Live Demo
+## 🌐 Live Link
 
-[View the live website Soon](https://your-portfolio-link.vercel.app)
-
-
+[Live](https://mayurnarkhede.vercel.app/)
 
 ## 📫 Contact Me
 
-* Email: [mayurnarkhede23@gmail.com](mailto:mayurnarkhede23@gmail.com)
-* [LinkedIn](https://www.linkedin.com/in/mayur-narkhede-a17a07320/)
-* [GitHub](https://github.com/Mayur000)
-
+- Email: [mayurnarkhede23@gmail.com](mailto:mayurnarkhede23@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/mayur-narkhede-a17a07320/)
+- [GitHub](https://github.com/Mayur000)
