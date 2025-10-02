@@ -24,11 +24,10 @@ I am **Mayur Rajendrakumar Narkhede**, a Computer Engineering student at Datta M
 ```
 
 /frontend      # React + Vite frontend
-/public        # Static assets
-/src
-/components  # Reusable React components
-/pages       # Website pages
-/assets      # Images, icons, etc.
+    /public        # Static assets
+    /src
+        /components  # Reusable React components
+        /assets      # Images, icons, etc.
 
 ```
 
